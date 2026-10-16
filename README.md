@@ -1,5 +1,5 @@
 
-# Smartprix Mobile Data Scraper
+# Mobile Data Scraper
 
 A Python web scraping project that collects mobile phone information from [Smartprix](https://www.smartprix.com/mobiles) using Selenium and extracts structured specifications into a CSV dataset using BeautifulSoup and Pandas.
 
